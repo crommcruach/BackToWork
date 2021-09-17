@@ -21,7 +21,7 @@ You can find documentation in DOC Folder
 
 Here are some useful quick links:
 
-## Translate Cachet
+## Translate
 
 If you'd like to contribute translations, please edit Message JSON in 
 
@@ -31,12 +31,10 @@ If you discover a security vulnerability within App, please send an e-mail to . 
 
 ## Limited Support Contact
 
-We may be able to resolve **support queries** via email. Please send an email to [support@cachethq.io](mailto:support@cachethq.io?Cachet%20Support). Please check the GitHub [issue tracker](https://github.com/CachetHQ/Cachet/issues) first before emailing.
+We may be able to resolve **support queries** via email. Please send an email to: . Please check the GitHub first before emailing.
 
 ## Professional Installation Service
 
-Realy?
 
 ## Sponsorship
 
-You can sponsor Cachet at our [Patreon page](https://patreon.com/jbrooksuk).
