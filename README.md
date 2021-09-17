@@ -6,8 +6,7 @@ A 100% Powershell APP with JSON Based Data using WPF as GUI.
 
 - 100% Powershell
 - Data JSON Based
-- Customise the look of the APP XAML
-- Markdown support for incident messages
+- Customize the look of the APP XAML
 - Multi-language support
 
 
