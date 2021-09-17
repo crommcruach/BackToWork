@@ -1,6 +1,7 @@
 # Back to Work
 
-A 100% Powershell APP with JSON Based Data using WPF as GUI.
+A simple easy to use 100% Powershell APP with JSON Based Data using WPF as GUI.
+  
 
 ## Overview
 
@@ -8,7 +9,9 @@ A 100% Powershell APP with JSON Based Data using WPF as GUI.
 - Data JSON Based
 - Customize the look of the APP XAML
 - Multi-language support
-
+- small footprint 
+- runs on every Windows PC
+- scaleable 1 to 100 of floors rooms offices etc.
 
 ## Requirements
 
