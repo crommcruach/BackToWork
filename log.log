@@ -1,0 +1,20 @@
+﻿**********************
+nStart der Windows PowerShell-Aufzeichnung
+Startzeit: 20210917153447
+Benutzername: LAPTOP-6O4HB65S\cromm
+RunAs-Benutzer: LAPTOP-6O4HB65S\cromm
+Konfigurationsname: 
+Computer: LAPTOP-6O4HB65S (Microsoft Windows NT 10.0.19043.0)
+Hostanwendung: C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\cromm\.vscode\extensions\ms-vscode.powershell-2021.9.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2021.9.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\cromm\.vscode\extensions\ms-vscode.powershell-2021.9.0\modules' -EnableConsoleRepl -StartupBanner '=====> PowerShell Integrated Console v2021.9.0 <=====
+' -LogLevel 'Normal' -LogPath 'c:\Users\cromm\.vscode\extensions\ms-vscode.powershell-2021.9.0\logs\1631884525-4465100e-b297-4fe9-bd49-120bc9cd44bd1631884522224\EditorServices.log' -SessionDetailsPath 'c:\Users\cromm\.vscode\extensions\ms-vscode.powershell-2021.9.0\sessions\PSES-VSCode-19244-250884' -FeatureFlags @() 
+Prozess-ID: 7352
+PSVersion: 5.1.19041.1151
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1151
+BuildVersion: 10.0.19041.1151
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Die Aufzeichnung wurde gestartet. Die Ausgabedatei ist "C:\Users\cromm\OneDrive\ProjektY\log.log".

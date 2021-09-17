@@ -1,0 +1,24 @@
+{
+    "de-DE":
+        {
+            "msg001":"Name:",
+            "msg002":"Etage:",
+            "msg003":"Datum:",
+            "msg004":"Suchen",
+            "msg005":"Für dieses Datum existiert bereits eine Buchung",
+            "msg006":"Datum wählen",
+            "msg007":"Das Datum sollte in der Zukunft liegen",
+            "msg008":"Mehr als zwei tage am Stück sind nicht erlaubt",
+            "msg009":"Bitte Etage wählen",
+            "msg010":"Die Belegung auf dieser Etage ist zu hoch",
+            "msg011":"Platz:",
+            "msg012":"Speichern",
+            "msg013":"Abbrechen",
+            "msg014":"Neuer Eintrag",
+            "msg015":"erfolgreich gespeichert",
+            "msg016":"schließen",
+            "msg017":"Gebucht von:",
+			"msg018":"Vorschau",
+			"msg019":"Freie Plätze:"
+        }
+}

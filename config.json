@@ -1,0 +1,25 @@
+{
+	"Version":"0.1.2",
+	"maxAllocationPercent":30,
+	"dateFormat":"dd.MM.yyyy",
+	
+	"floorsFile":"floors.json",
+	"floorsFileFolder": "",
+	"floorsURL":"",
+
+	"bookingsFolder":"",
+	"bookingsFile":"bookings.json",
+	"bookingsURL":"",
+	
+	"floorFolder":"",
+	"floorURL":"",
+	"bookingsBackupFolder":"",
+	"bookingsBackupURL":"",
+
+	"languageFolder": "",
+	"messageFile": "messages.json",
+	"languageURL":"",
+	"language":"de-DE",
+
+	"logPath":""
+}

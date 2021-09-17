@@ -1,0 +1,1 @@
+start-process PowerShell.exe -arg $pwd\main.ps1 -WindowStyle Hidden
